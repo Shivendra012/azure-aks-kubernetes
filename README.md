@@ -129,16 +129,16 @@
 
 | Application Name  | Docker Image Name |
 | ----------------- | ----------------- |
-| Simple Nginx V1  | stacksimplify/kubenginx:1.0.0  |
-| Spring Boot Hello World API  | stacksimplify/kube-helloworld:1.0.0  |
-| Simple Nginx V2  | stacksimplify/kubenginx:2.0.0  |
-| Simple Nginx V3  | stacksimplify/kubenginx:3.0.0  |
-| Simple Nginx V4  | stacksimplify/kubenginx:4.0.0  |
-| Backend Application  | stacksimplify/kube-helloworld:1.0.0  |
-| Frontend Application  | stacksimplify/kube-frontend-nginx:1.0.0  |
-| Kube Nginx App1  | stacksimplify/kube-nginxapp1:1.0.0  |
-| Kube Nginx App2  | stacksimplify/kube-nginxapp2:1.0.0  |
-| User Management Web Application  | stacksimplify/kube-usermgmt-webapp:1.0.0-MySQLDB  |
+| Simple Nginx V1  | shivendra012/kubenginx:1.0.0  |
+| Spring Boot Hello World API  | shivendra012/kube-helloworld:1.0.0  |
+| Simple Nginx V2  | shivendra012/kubenginx:2.0.0  |
+| Simple Nginx V3  | shivendra012/kubenginx:3.0.0  |
+| Simple Nginx V4  | shivendra012/kubenginx:4.0.0  |
+| Backend Application  | shivendra012/kube-helloworld:1.0.0  |
+| Frontend Application  | shivendra012/kube-frontend-nginx:1.0.0  |
+| Kube Nginx App1  | shivendra012/kube-nginxapp1:1.0.0  |
+| Kube Nginx App2  | shivendra012/kube-nginxapp2:1.0.0  |
+| User Management Web Application  | shivendra012/kube-usermgmt-webapp:1.0.0-MySQLDB  |
 
 ## List of Docker Images you build in Azure Container Registry
 
