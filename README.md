@@ -1,14 +1,12 @@
 # Azure Kubernetes Service with Azure DevOps and Terraform 
 
-[![Image](https://stacksimplify.com/course-images/azure-kubernetes-service-with-azure-devops-and-terraform-bestseller.png "Azure Kubernetes Service with Azure DevOps and Terraform")](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?referralCode=2499BF7F5FAAA506ED42)
-
 
 ## Course Modules
 
 | S.No | Azure Service Name |
 | ---- | ---------------- |
 | 1.   | Create Azure AKS Cluster using Azure Portal |
-| 2.   | [Docker Fundamentals](https://github.com/stacksimplify/docker-fundamentals) |
+| 2.   | [Docker Fundamentals](https://github.com/shivendra012/docker-fundamentals) |
 | 3.   | Imperative Method: Kubernetes Fundamentals using kubectl |
 | 4.   | Declarative Method: Kubernetes Fundamentals using YAML |
 | 5.   | Azure Disks for AKS Storage |
@@ -186,28 +184,12 @@
 - Any beginner who is interested in learning Azure DevOps, Terraform to provision Azure Kubernetes Clusters
 
 ## Github Repositories used for this course
-- [Azure Kubernetes Service with Azure DevOps and Terraform](https://github.com/stacksimplify/azure-aks-kubernetes-masterclass)
-- [Azure DevOps for Kubernetes Workloads running on Azure AKS Cluster](https://github.com/stacksimplify/azure-devops-github-acr-aks-app1)
-- [Provision Azure AKS Cluster using Terraform and Azure DevOps](https://github.com/stacksimplify/azure-devops-aks-kubernetes-terraform-pipeline)
-- [Docker Fundamentals](https://github.com/stacksimplify/docker-fundamentals)
-- [Presentation with 250 Slides outlining the various architectures and designs we are going to do in this course](https://github.com/stacksimplify/azure-aks-kubernetes-masterclass/tree/master/ppt-presentation)
+- [Azure Kubernetes Service with Azure DevOps and Terraform](https://github.com/shivendra012/azure-aks-kubernetes-masterclass)
+- [Azure DevOps for Kubernetes Workloads running on Azure AKS Cluster](https://github.com/shivendra012/azure-devops-github-acr-aks-app1)
+- [Provision Azure AKS Cluster using Terraform and Azure DevOps](https://github.com/shivendra012/azure-devops-aks-kubernetes-terraform-pipeline)
+- [Docker Fundamentals](https://github.com/shivendra012/docker-fundamentals)
+- [Presentation with 250 Slides outlining the various architectures and designs we are going to do in this course](https://github.com/shivendra012/azure-aks-kubernetes-masterclass/tree/master/ppt-presentation)
 - **Important Note:** Please go to these repositories and FORK these repositories and make use of them during the course.
 
-
-## Each of my courses come with
-- Amazing Hands-on Step By Step Learning Experiences
-- Real Implementation Experience
-- Friendly Support in the Q&A section
-- 30 Day "No Questions Asked" Money Back Guarantee!
-
-## My Other AWS Courses
-- [Udemy Enroll](https://github.com/stacksimplify/udemy-enroll)
-
-## Stack Simplify Udemy Profile
-- [Udemy Profile](https://www.udemy.com/user/kalyan-reddy-9/)
-
-# AWS EKS - Elastic Kubernetes Service - Masterclass
-
-[![Image](https://stacksimplify.com/course-images/AWS-EKS-Kubernetes-Masterclass-DevOps-Microservices-course.png "AWS EKS Kubernetes - Masterclass")](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
 
 
