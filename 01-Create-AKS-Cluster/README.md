@@ -7,10 +7,10 @@
 ## Step-02: Create AKS Cluster
 - Create Kubernetes Cluster
 - **Basics**
-  - **Subscription:** Free Trial
-  - **Resource Group:** Creat New: aks-rg1
+  - **Subscription:** Pay-as-you-go
+  - **Resource Group:** Creat New: shivendra-aks-rg01
   - **Kubernetes Cluster Name:** aksdemo1
-  - **Region:** (US) Central US
+  - **Region:** West Europe
   - **Kubernetes Version:** Select what ever is latest stable version
   - **Node Size:** Standard DS2 v2 (Default one)
   - **Node Count:** 1
