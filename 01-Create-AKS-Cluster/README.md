@@ -7,10 +7,10 @@
 ## Step-02: Create AKS Cluster
 - Create Kubernetes Cluster
 - **Basics**
-  - **Subscription:** Free Trial
-  - **Resource Group:** Creat New: aks-rg1
+  - **Subscription:** Pay-as-you-go
+  - **Resource Group:** Creat New: shivendra-aks-rg01
   - **Kubernetes Cluster Name:** aksdemo1
-  - **Region:** (US) Central US
+  - **Region:** West Europe
   - **Kubernetes Version:** Select what ever is latest stable version
   - **Node Size:** Standard DS2 v2 (Default one)
   - **Node Count:** 1
@@ -39,7 +39,7 @@
 az aks get-credentials --resource-group <Resource-Group-Name> --name <Cluster-Name>
 
 # Replace Resource Group & Cluster Name
-az aks get-credentials --resource-group aks-rg1 --name aksdemo1
+az aks get-credentials --resource-group shivendra-aks-rg01 --name aksdemo1
 
 # List Kubernetes Worker Nodes
 kubectl get nodes 
@@ -97,7 +97,7 @@ az login
 az aks install-cli
 
 # Configure Cluster Creds (kube config)
-az aks get-credentials --resource-group aks-rg1 --name aksdemo1
+az aks get-credentials --resource-group shivendra-aks-rg01 --name aksdemo1
 
 # List AKS Nodes
 kubectl get nodes 
